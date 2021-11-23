@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @natthanguilhot
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on web devlopment project
+- 💞️ I’m looking to collaborate on web development project
 - 📫 How to reach me natthan.guilhot@laposte.net
 
 <!---
